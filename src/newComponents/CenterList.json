@@ -1,0 +1,617 @@
+{
+  "KARNATAKA": {
+    "BANGALORE": {
+      "center1": {
+        "CompanyName": "Bangalore Ewaste Recyle center",
+        "Phone": "9739979966",
+        "Email": "",
+        "Website": "",
+        "Address": "154, 4th A Cross Road, Seethappa Layout, Chamundi Nagar, Bangalore, Bengaluru, Karnataka 560032",
+        "State": "KARNATAKA",
+        "City": "BENGALURU",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "Zolopic",
+        "Phone": "8884122243",
+        "Email": "",
+        "Website": "",
+        "Address": " 58, 22nd Main Rd, Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+        "State": "KARNATAKA",
+        "City": "BENGALURU",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Prakruthi Recycling Pvt. Ltd",
+        "Phone": "18001028286",
+        "Email": "",
+        "Website": "",
+        "Address": "511, 60 Feet Road, A Block, RHCS Layout, 2ND Stage, Naagarabhaavi, Bengaluru, Karnataka 560091",
+        "State": "KARNATAKA",
+        "City": "BENGALURU",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "E- Parisaraa Private Limited",
+        "Phone": "8028360902",
+        "Email": "",
+        "Website": "",
+        "Address": "No. B, 41/1, 3rd Stage, Maruthi Nagar, Peenya, Bengaluru, Karnataka 560058",
+        "State": "KARNATAKA",
+        "City": "BENGALURU",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "DELHI": {
+    "DELHI": {
+      "center1": {
+        "CompanyName": "Hindustan E-waste Management Pvt. Ltd.",
+        "Phone": "1141553113",
+        "Email": "",
+        "Website": "",
+        "Address": "8, Central road, Jangpura, Bhogal, New Delhi, Delhi 110014",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "E-waste Recycle Hub",
+        "Phone": "1800123005566",
+        "Email": "",
+        "Website": "",
+        "Address": "BK-1/1600, 1st floor, Poorbi Shalimar Bag, Delhi 110088",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Rocket sales",
+        "Phone": "8800575430",
+        "Email": "",
+        "Website": "",
+        "Address": "Manjusha Building, 604-A, 6th floor, 57 Nehru place, New Delhi, Delhi 110019",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "E-waste recyclers, India",
+        "Phone": "9810398787",
+        "Email": "",
+        "Website": "",
+        "Address": "Nirmal villa, No. 14, Sitapuri, Dwarka, New Delhi, Delhi 110045",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "3R Recyclers, India",
+        "Phone": "1143026362",
+        "Email": "",
+        "Website": "",
+        "Address": "502, 5th floor, DDA Complex, Distt. Centre, Laxmi Nagar, New Delhi, Delhi 110092",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center6": {
+        "CompanyName": "Techchef E-waste Solutions Pvt. Ltd.",
+        "Phone": "8178022401",
+        "Email": "",
+        "Website": "",
+        "Address": "Top floor, C-6, DDA Sheds, Pocket A, Okhla phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center7": {
+        "CompanyName": "HM waste management Pvt. Ltd.",
+        "Phone": "9999829648",
+        "Email": "",
+        "Website": "Hmewaste.com",
+        "Address": "G-21 bd chambers, Karol Bagh, New Delhi, Delhi 110005",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center8": {
+        "CompanyName": "E-swachh-Ek samadhan",
+        "Phone": "9009009817",
+        "Email": "",
+        "Website": "",
+        "Address": "A-3, Christian Colony Rd, Patel Chest DU University, Enclave, Delhi, 11007",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center9": {
+        "CompanyName": "Bharat Recycling Pvt. Ltd.",
+        "Phone": "",
+        "Email": "",
+        "Website": "",
+        "Address": "119/1 Gali no. 19, Main road, North Ghonda, Delhi 110053",
+        "State": "DELHI",
+        "City": "DELHI",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "TAMIL NADU": {
+    "CHENNAI": {
+      "center1": {
+        "CompanyName": "SKV E-WASTE RECYCLING Pvt. Ltd",
+        "Phone": "9514751475",
+        "Email": "",
+        "Website": "",
+        "Address": "13/1, Thirunagar, Alagiri Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "Virogreen India Pvt Ltd",
+        "Phone": "9940831313",
+        "Email": "",
+        "Website": "",
+        "Address": "LCR Centre, No 12/ 3, Thiruvallur nagar extension, Kolathur, Tamil Nadu 600099",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Green e waste Pvt Ltd",
+        "Phone": "7200185121",
+        "Email": "",
+        "Website": "",
+        "Address": "Plot No.33, Geeson Colony Galaxy Road Kil Ayanambakkam Village, Ambattur, Chennai, Tamil Nadu 600095",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "Crown-Tech Ewaste Solutions",
+        "Phone": "7845629121",
+        "Email": "",
+        "Website": "",
+        "Address": "326, Dewan Sahib Garden St, Pudupet, Royapettah, Chennai, Tamil Nadu 600014",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "M.TAJ TRADERS",
+        "Phone": "9551424200",
+        "Email": "",
+        "Website": "",
+        "Address": "5, Triplicane High Rd, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center6": {
+        "CompanyName": "Sree E waste Recycling",
+        "Phone": "7845561376",
+        "Email": "",
+        "Website": "",
+        "Address": "Old, 46, Rajiv Gandhi Salai, Srinivasa Nagar, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center7": {
+        "CompanyName": "Earth Sense Recycle Pvt. Ltd",
+        "Phone": "8004190161",
+        "Email": "",
+        "Website": "",
+        "Address": "7/4, 3rd Trust Cross St, Mandavelipakkam, Raja Annamalai Puram, Chennai, Tamil Nadu 600028",
+        "State": "TAMIL NADU",
+        "City": "CHENNAI",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "GUJARAT": {
+    "GANDHINAGAR": {
+      "center1": {
+        "CompanyName": "Ecoli Waste Management",
+        "Phone": "7046469000",
+        "Email": "",
+        "Website": "",
+        "Address": "Trade Square, 203, opp. Torrent Power House, Sabarmati, Ahmedabad, Gujarat 380005",
+        "State": "GUJARAT",
+        "City": "GANDHINAGAR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "ECS Environment Pvt Ltd.",
+        "Phone": "8980004000",
+        "Email": "",
+        "Website": "",
+        "Address": "The First Besides, Itc Narmada, ECS Corporate House, B 02, Hotel, Vastrapur, Ahmedabad, Gujarat 380015",
+        "State": "GUJARAT",
+        "City": "GANDHINAGAR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "RPlanet",
+        "Phone": "7990246889",
+        "Email": "",
+        "Website": "",
+        "Address": "A 811, Safal Pegasus, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+        "State": "GUJARAT",
+        "City": "GANDHINAGAR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "Wasteuturn",
+        "Phone": "9971389851",
+        "Email": "",
+        "Website": "",
+        "Address": "YASH ARIAN, Swami Vivekanand Cir, Bhuyangdev Society, Memnagar, Ahmedabad, Gujarat 380052",
+        "State": "GUJARAT",
+        "City": "GANDHINAGAR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "Climax E-Waste Management Private Limited",
+        "Phone": "9904152101",
+        "Email": "",
+        "Website": "",
+        "Address": " 03, Privilion, Ambli-Bopal Road, Sarkhej - Gandhinagar Hwy, behind Iskcon Temple, Ahmedabad, Gujarat 380054",
+        "State": "GUJARAT",
+        "City": "GANDHINAGAR",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "MAHARASHTRA": {
+    "NAGPUR": {
+      "center1": {
+        "CompanyName": "Suritex E-Waste Recyclers",
+        "Phone": "7947429619",
+        "Email": "",
+        "Website": "www.suritex.co.in",
+        "Address": "Plot No 5/6, Zal Complex, Residency Road, Sadar Bazar, Nagpur - 440001 (Opposite SFS School)",
+        "State": "MAHARASTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "ASN Waste Management Services Pvt Ltd",
+        "Phone": "7947121980",
+        "Email": "",
+        "Website": "",
+        "Address": "143, Thakre Bhavan, Zenda Chowk, Abhyankar Nagar, Nagpur - 440010",
+        "State": "MAHARASTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Nagraj E-waste Recycling",
+        "Phone": "7122761247",
+        "Email": "",
+        "Website": "",
+        "Address": "Flat No.004, Om Maa Bamleshwari App, near Patidar Bhavan, Queta Colony, Bagadganj, Nagpur, Maharashtra 440008",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    },
+    "MUMBAI": {
+      "center1": {
+        "CompanyName": "Ecostar Recycling",
+        "Phone": "8291055055",
+        "Email": "",
+        "Website": "",
+        "Address": "1st floor, unit no. 31-32, Khuraiya estate, CST road, opposite Ashok Apartment, Kalina, Santacruz East, Maharashtra 400098",
+        "State": "MAHARASHTRA",
+        "City": "MUMBAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "Ecoreco- E-waste recycling",
+        "Phone": "2240052951",
+        "Email": "",
+        "Website": "",
+        "Address": "422, The Summit Business Bay, opp Cinemax theatre, Andheri-Kurla Rd, near WEH Metro Station , Andheri East, Mumbai, Maharashtra 40093",
+        "State": "MAHARASHTRA",
+        "City": "MUMBAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Eco Layer E-waste recycling",
+        "Phone": "9820750846",
+        "Email": "",
+        "Website": "",
+        "Address": "25, Gupta compound, MIDC road no. 11, Nr. Maruti High School Andheri, Mumbai 4400093",
+        "State": "MAHARASHTRA",
+        "City": "MUMBAI",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "SKV-E waste",
+        "Phone": "9514751475",
+        "Email": "",
+        "Website": "",
+        "Address": "A-103 Shiv Shakti, CHS 1st floor, Andheri RTO, Anna Nagar, Andheri West, Mumbai 400053",
+        "State": "MAHARASHTRA",
+        "City": "MUMBAI",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    },
+    "PUNE": {
+      "center1": {
+        "CompanyName": "Ecotech Recycling",
+        "Phone": "9869543618",
+        "Email": "",
+        "Website": "",
+        "Address": "301, 3rd Floor, Bldg. No. 11, Commercial Tower, near Trade Center, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "State": "MAHARASHTRA",
+        "City": "PUNE",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "Prabhunath Traders (E-waste Management)",
+        "Phone": "932626222",
+        "Email": "",
+        "Website": "",
+        "Address": "68/03, near jain mandir, Santosh Nagar, Katraj, Pune, Maharashtra 411046",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "Kuldeep E-Waste Disposals",
+        "Phone": "9850289885",
+        "Email": "",
+        "Website": "",
+        "Address": "Manikmoti Complex, Office No.13, Katraj, Off, Pune - Satara Rd, opp. Kanchan Hp Gas Agency, Pune, Maharashtra 411046",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "GREEN IT RECYCLING CENTER PVT.LTD.",
+        "Phone": "9822356062",
+        "Email": " ",
+        "Website": "",
+        "Address": "5 Ganeshprasad IInd Floor, 890, Sadashiv Peth, Pune, Maharashtra 411030",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "SWaCH E-Waste Collection Center",
+        "Phone": "9765999500",
+        "Email": "",
+        "Website": "",
+        "Address": "32/1, Dhankawadi Rd, Saragam Society 1, Anant Nagar, Kala Nagar, Dhankawadi, Pune, Maharashtra 411043",
+        "State": "MAHARASHTRA",
+        "City": "PUNE",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center6": {
+        "CompanyName": "Mahalaxmi E Recyclers Pvt. Ltd.",
+        "Phone": "",
+        "Email": "",
+        "Website": "",
+        "Address": "Plot No 77&78, Subplot No 3A, next to Rohini Signs, Ramtekdi Industrial Area, Hadapsar, Pune, Maharashtra 411013",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center7": {
+        "CompanyName": "Harshita Green Recyclers",
+        "Phone": "9028182827",
+        "Email": "",
+        "Website": "",
+        "Address": "1937, Bajirao Rd, opposite to Bharat Sanchar Nigam Limited, Madiwale Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+        "State": "MAHARASHTRA",
+        "City": "NAGPUR",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "HARYANA": {
+    "GURUGRAM": {
+      "center1": {
+        "CompanyName": "Deshwal Waste Management",
+        "Phone": "18001029",
+        "Email": "",
+        "Website": "",
+        "Address": "Plot no. 15, Sector 5, Imt Manesar, Gurugram, Haryana 122050",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "Pegasus - eWaste Management Comp",
+        "Phone": "9818346370",
+        "Email": "",
+        "Website": "",
+        "Address": "Village- Bhoda Kalan, Binola, Gurugram, Haryana 122413",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "3R ZeroWaste Pvt Ltd",
+        "Phone": "7093198828",
+        "Email": "",
+        "Website": "",
+        "Address": "PLOT 62, Sector 8, Imt Manesar, Gurugram, Haryana 122051A",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "Green Vortex",
+        "Phone": "9971389851",
+        "Email": "",
+        "Website": "",
+        "Address": "331, Udyog Vihar Industrial Area Phase VI, Sector 37, Gurugram, Haryana 122004",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "Useify",
+        "Phone": "8287666682",
+        "Email": "",
+        "Website": "",
+        "Address": "A/74, Ward 30, Block A, Rajendra Park, Sector 105, Gurugram, Haryana 122006",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center6": {
+        "CompanyName": "Waselec",
+        "Phone": "18003097533",
+        "Email": "",
+        "Website": "",
+        "Address": "4th Floor, BPTP Centra, 1, Golf Course Ext Rd, Sector 61, Gurugram, Haryana 122002",
+        "State": "HARYANA",
+        "City": "GURUGRAM",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  },
+  "TELANGANA": {
+    "HYDERABAD": {
+      "center1": {
+        "CompanyName": "Re Sustainability and Recycling Pvt. Ltd.",
+        "Phone": "9032124522",
+        "Email": "",
+        "Website": "",
+        "Address": "25/A, Hardware Park, Srisailam Highway Road Kurmaguda, near International Airport, Hyderabad, Telangana 500005",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center2": {
+        "CompanyName": "E-Waste Recycling process company",
+        "Phone": "9966555719",
+        "Email": "",
+        "Website": "",
+        "Address": "GPRA CUMPUS, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center3": {
+        "CompanyName": "S D Recycling Process Industries E Waste",
+        "Phone": "8858542674",
+        "Email": "",
+        "Website": "",
+        "Address": "Near Income Tex Tower, AC Guards, Hyderabad, Telangana 500004",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center4": {
+        "CompanyName": "E WASTE RECYCLING",
+        "Phone": "8045134312",
+        "Email": "",
+        "Website": "",
+        "Address": "2-41/5/1, Ghousia Masjid Rd, Vinayaka Nagar, HITEC City, Khanammet, Hyderabad, Telangana 500084",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center5": {
+        "CompanyName": "Pure Earth Recyclers Pvt. Ltd | Enterprise ITAD | Govt. Authorized E-waste Recycler and Refurbisher.",
+        "Phone": "8858542674",
+        "Email": "",
+        "Website": "",
+        "Address": "Plot No, 167c, opp. JNTU, Addagutta Society, Western Hills, Jal Vayu Vihar, Kukatpally, Hyderabad, Telangana 500072",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center6": {
+        "CompanyName": "Z Enviro Industries Pvt Ltd",
+        "Phone": "4065222259",
+        "Email": "",
+        "Website": "",
+        "Address": "Road No. 12, NBT Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center7": {
+        "CompanyName": "Zolopik",
+        "Phone": "9743440440",
+        "Email": "",
+        "Website": "",
+        "Address": "1, H.No: 3-7/38, Khaswa Enclave, Marva Road, Narsingi, Hyderabad, Telangana 500075",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      },
+      "center8": {
+        "CompanyName": "Crapbin",
+        "Phone": "7799996096",
+        "Email": "",
+        "Website": "",
+        "Address": "16-9-406/A/80, Ground Floor, Wahed Nagar, Old Malakpet, Hyderabad, Telangana 500036",
+        "State": "TELANGANA",
+        "City": "HYDERABAD",
+        "MapLocation": "",
+        "PickupService": ""
+      }
+    }
+  }
+}
