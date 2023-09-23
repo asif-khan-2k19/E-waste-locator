@@ -1,10 +1,10 @@
 import React from "react";
 import asif from './images/asif.jpeg'
-// import tabish from './images/tabish.jpeg'
+// import tabish from './images/tabish.jpg'
 import sarah from './images/sarah.jpg'
 import yusra from './images/yusra.jpg'
-// import ashiya from './images/ashiya.jpeg'
-// import reeba from './images/reeba.jpeg'
+import ashiya from './images/ashiya.jpeg'
+import reeba from './images/reeba.jpg'
 function About() {
   return (
     <div>
@@ -63,7 +63,7 @@ function About() {
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/thomas-lean.png"
+                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
                 alt="Tabish Romani"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -74,7 +74,7 @@ function About() {
                 
                 <li>
                   <a
-                    href="#" target="_blank"
+                    href="https://github.com/TabishOg" target="_blank"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
                     <svg
@@ -130,7 +130,7 @@ function About() {
             </div>
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
-                class="mx-auto mb-4 w-36 h-36 rounded-full border-solid border-gray-500 border-2"
+                class="mx-auto mb-4 w-36 h-36 rounded-full"
                 src={yusra}
                 alt="Yusra Maheen"
               />
@@ -165,8 +165,8 @@ function About() {
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png"
-                alt="Sofia Avatar"
+                src={reeba}
+                alt="Reeba Diwan"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <a href="https://www.linkedin.com/in/reeba-diwan-58435b252/">Reeba Diwan</a>
@@ -199,9 +199,8 @@ function About() {
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/helene-engels.png"
-
-                alt="Leslie Avatar"
+                src={ashiya}
+                alt="Ashiya Khan"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <a href="https://www.linkedin.com/in/ashiya-khan-57635b252/">Ashiya Khan</a>
