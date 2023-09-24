@@ -370,20 +370,21 @@
         "City": "MUMBAI",
         "MapLocation": "",
         "PickupService": ""
-      }
-    },
-    "PUNE": {
-      "center1": {
+      },
+      "center5": {
         "CompanyName": "Ecotech Recycling",
         "Phone": "9869543618",
         "Email": "",
         "Website": "",
         "Address": "301, 3rd Floor, Bldg. No. 11, Commercial Tower, near Trade Center, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
         "State": "MAHARASHTRA",
-        "City": "PUNE",
+        "City": "MUMBAI",
         "MapLocation": "",
         "PickupService": ""
-      },
+      }
+    },
+    "PUNE": {
+      
       "center2": {
         "CompanyName": "Prabhunath Traders (E-waste Management)",
         "Phone": "932626222",

@@ -6,7 +6,7 @@ import Footer from '../newComponents/Footer'
 function ContactScreen() {
   return (
     <div>
-        <Navbar/>    
+        <Navbar/> 
         <Contact/>
         <Footer/>
     </div>

@@ -1,8 +1,7 @@
 "use client";
 import { Link } from "react-router-dom";
-import { Button, Navbar } from "flowbite-react";
-// import logo from "./images/logo.jpeg";
-export default function NavbarWithCTAButton() {
+import { Button } from "flowbite-react";
+export default function Navbar() {
   return (
     <Navbar
       fluid
@@ -15,11 +14,11 @@ export default function NavbarWithCTAButton() {
           class="mr-3 h-14"
           alt="FlowBite Logo"
         />
-        {/* <img
+        <img
           src="https://www.mha.gov.in/themes/custom/mhanew/images/swach-bharat.png"
           class="mr-3 h-14"
           alt="FlowBite Logo"
-        /> */}
+        />
         <Link to="/">
           <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
             RenewIT India
@@ -27,7 +26,11 @@ export default function NavbarWithCTAButton() {
         </Link>
       </Navbar.Brand>
       <div className="flex md:order-2">
-        <Button className="mx-2 bg-green-700 focus:outline-none">Signup</Button>
+        <Link to="/login">
+          <Button className="mx-2 bg-green-700 focus:outline-none">
+            Login
+          </Button>
+        </Link>
         <Navbar.Toggle />
       </div>
       <Navbar.Collapse>

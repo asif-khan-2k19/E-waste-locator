@@ -1,14 +1,14 @@
 import React from "react";
 import asif from './images/asif.jpeg'
-// import tabish from './images/tabish.jpg'
+import tabish from './images/tabish.jpeg'
 import sarah from './images/sarah.jpg'
 import yusra from './images/yusra.jpg'
-import ashiya from './images/ashiya.jpeg'
+import ashiya from './images/ashiyaa.jpeg'
 import reeba from './images/reeba.jpg'
 function About() {
   return (
     <div>
-      <section class="bg-white dark:bg-gray-900 pt-20">
+      <section class="bg-gray-50 dark:bg-gray-900 pt-20">
         <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
           <div class="mx-auto mb-8 max-w-screen-sm lg:mb-16">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
@@ -63,7 +63,7 @@ function About() {
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png"
+                src={tabish}
                 alt="Tabish Romani"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">

@@ -5,10 +5,14 @@ import ContactScreen from './screens/ContactScreen';
 import AboutScreen from './screens/AboutScreen';
 import FacilityScreen from './screens/FacilityScreen';
 import RewardScreen from './screens/RewardScreen';
+// import CenterAdminPanel from './screens/CenterAdminPanel';
+import Error from './screens/Error';
+import Login from './backendComponents/Login';
+import Signup from './backendComponents/Signup';
+import ForgotPassword from './backendComponents/ForgotPassword';
 function App() {
   return (
     <>
-    {/* <HomeScreen/> */}
     <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomeScreen/>}></Route>
@@ -17,6 +21,10 @@ function App() {
           <Route path="/rewards" element={<RewardScreen />}></Route>
           <Route path="/contact" element={<ContactScreen />}></Route>
           <Route path="/about" element={<AboutScreen />}></Route>
+          {/* <Route path="/admin" element={<CenterAdminPanel />}></Route> */}
+          <Route path="/login" element={<Login />}></Route>
+          <Route path="/signup" element={<Signup />}></Route>
+          <Route path="/forgot-password" element={<ForgotPassword />}></Route>
           {/* <Route path="/*" element={<Error />}></Route> */}
         </Routes>
       </BrowserRouter>

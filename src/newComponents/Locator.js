@@ -42,10 +42,7 @@ const LocateFacility = () => {
             <span className="font-medium">{city}</span>
           </div>
           {Object.keys(stateData[city]).map((center) => (
-            <Accordion
-              key={center}
-              className="max-w-screen-sm m-auto my-2"
-            >
+            <Accordion key={center} className="max-w-screen-sm m-auto my-2">
               <Accordion.Panel>
                 <Accordion.Title>
                   {stateData[city][center].CompanyName}
@@ -56,7 +53,9 @@ const LocateFacility = () => {
                     {stateData[city][center].Phone}
                   </p>
                   <p className="text-gray-500 dark:text-gray-400">
-                    <span className="font-medium text-gray-800">Address : </span>
+                    <span className="font-medium text-gray-800">
+                      Address :{" "}
+                    </span>
                     {stateData[city][center].Address}
                   </p>
                 </Accordion.Content>
